@@ -1,0 +1,3 @@
+// default constructor 
+// parameterised constructor (constructor in which we pass data type)
+// copy contructor (when we pass object as datatype the constructor is called copy constructor)
